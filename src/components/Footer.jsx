@@ -28,14 +28,14 @@ const Footer = () => {
                 <p className="text-xl font-medium mb-5 ">Get In Touch</p>
                 <ul className="flex flex-col gap-1 text-gray-600">
 <li>+1-212-456-7890</li>
-<li>forever@gmail.com</li>
+<li>urbanauraabhay@gmail.com</li>
                 </ul>
               </div>
       </div>
       <div>
         <hr />
         <p className="py-5 text-sm text-center ">
-          Copyright 2024@ forever.com -All Right Reserved
+          Copyright 2024@ urbanauraabhay.vercel.app -All Right Reserved
         </p>
       </div>
     </div>
